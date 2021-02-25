@@ -2,7 +2,7 @@
 Code for my research paper in Reykjavík University
 
 ### ORIGINAL NAMES GENERATOR CODE FROM
-https://github.com/maknetaRo/python-100/blob/master/name-generator/name_scraper.py
+https://github.com/maknetaRo/python-100/tree/master/name-generator
 
 ### ORIGINAL VIDEO SCRAPER CODE FROM
 https://github.com/nikhilkumarsingh/YouTubeAPI-Examples/blob/master/4.Channel-Vids.ipynb
