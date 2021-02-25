@@ -1,7 +1,7 @@
 # Content-based-recommendation
 Code for my research paper in Reykjavík University
 
-### ORIGINAL CODE FROM
+### ORIGINAL VIDEO SCRAPER CODE FROM
 https://github.com/nikhilkumarsingh/YouTubeAPI-Examples/blob/master/4.Channel-Vids.ipynb
 
 ### READ DOCUMENTATION BEFORE RUNNING
