@@ -7,7 +7,7 @@ https://github.com/nikhilkumarsingh/YouTubeAPI-Examples/blob/master/4.Channel-Vi
 ### READ DOCUMENTATION BEFORE RUNNING
 
 #### need to install ipynb to be able to call functions from other functions
-pip install ipynb
+- pip install ipynb
 
 
 #### need to have installed
